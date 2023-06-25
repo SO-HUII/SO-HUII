@@ -1,4 +1,5 @@
 ### Hi there 👋
+도전과 재미있는 실패들을 마음껏 하고 싶습니다.
 
 <!--
 **SO-HUII/SO-HUII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
