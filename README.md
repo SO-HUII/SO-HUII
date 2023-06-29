@@ -1,6 +1,11 @@
-### Hi there 👋
-"Fake it till you make it"
-도전과 재미있는 실패들을 마음껏 하고 싶습니다.
+### 안녕하세요👋
+’왜?’가 입버릇인 개발자 노소희입니다.
+
+🍀 *“Fake till you make it.”* 
+
+🍀 **도전**과 재미있는 **실패**들을 마음껏 하고 싶습니다.
+
+🍀 모두가 불편하지 않은, 모두를 소외시키지 않는 개발자를 꿈꿉니다.
 
 <!--
 **SO-HUII/SO-HUII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
