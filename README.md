@@ -1,23 +1,40 @@
-### 안녕하세요👋
-’왜?’가 입버릇인 프론트엔드 개발자 노소희입니다.
+## Hi! I'm Sohui 👋
+A Front-End Developer from South Korea
 
 🍀 *“Fake till you make it.”* 
 
-🍀 **도전**과 재미있는 **실패**들을 마음껏 하고 싶습니다.
+🍀 **도전**과 재미있는 **실패**를 즐깁니다.
 
-🍀 모두가 불편하지 않은, 모두를 소외시키지 않는 개발자를 꿈꿉니다.
+🍀 디지털 시대에 소외되는 사용자가 없도록 끊임없이 고민하고 노력하는 개발자를 꿈꿉니다.
 
-<!--
-**SO-HUII/SO-HUII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+🌊 Skills
+-------------
+**Front-end** <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,styledcomponents&theme=light)](https://skillicons.dev)
+<br>
+
+**Back-end** <br>
+
+[![My Skills](https://skillicons.dev/icons?i=next,java,spring,mysql,php)](https://skillicons.dev)
+<br>
+
+**App** <br>
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=light)](https://skillicons.dev)
+<br>
+
+**Tools** <br>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
+<br>
+
+**Etc** <br>
+<p>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
