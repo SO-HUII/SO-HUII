@@ -38,3 +38,5 @@ A Front-End Developer from South Korea
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+![](./profile-3d-contrib/profile-season-animate.svg)
